@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Pugalia
-- 👀 I’m interested in frontEnd development
-- 🌱 I’m currently learning react.js
+- 👀 I am a full stack developer
+- 🌱 My tech stack consists of: c++, react.js, java, javascript, spring boot , spring mvc , javascript , html , css
 .
 
 <!---
