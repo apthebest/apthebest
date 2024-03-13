@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Pugalia
 - 👀 I am a full stack developer
-- 🌱 My tech stack consists of: c++, react.js, java, javascript, spring boot , spring mvc , javascript , html , css
+- 🌱 My tech stack consists of: C++, React.js, Java, Javascript, Spring boot , Spring mvc , Node.js, html , css
 .
 
 <!---
